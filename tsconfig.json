@@ -6,6 +6,7 @@
         "esModuleInterop": true,
         "allowSyntheticDefaultImports": true,
         "moduleResolution": "node",
+        "resolveJsonModule": true,
         "paths": {
             "mini-signals": ["./node_modules/resource-loader/typings/mini-signals.d.ts"]
         },
